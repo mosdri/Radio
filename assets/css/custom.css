@@ -38,7 +38,7 @@ body a{
 
 .hero-area{
 
-	background-image: url('images/bg4.png');
+	background-image: url('/images/bg4.png');
 	min-height: 400px;
 	background-position: 20% 30%;
 	background-size: 100%;
